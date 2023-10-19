@@ -1,5 +1,5 @@
 # 🎥 DVD-Rental-SQL-Project 🎥
-For this project we are using a DVD rental database for analysis. 
+Welcome to the DVD Rental Database Project, where we use PostgreSQL, a powerful open-source database system. This project includes 15 well-designed tables, each representing parts of a fictional DVD rental business.  
 
 To start here is the DVD Rental ER Model (Simplified version for a general overview)
 ![image](https://github.com/NoobNaijaCodah95/DVD-Rental-SQL-Project/assets/137308988/6876eb6b-8330-469d-93f2-f94dd4703703)

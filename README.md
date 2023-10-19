@@ -1,4 +1,4 @@
-# DVD-Rental-SQL-Project
+# 🎥 DVD-Rental-SQL-Project 🎥
 For this project we are using a DVD rental database for analysis. 
 
 To start here is the DVD Rental ER Model (Simplified version for a general overview)
